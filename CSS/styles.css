@@ -1,0 +1,39 @@
+.objective {
+  color: blue;
+}
+
+.intro {
+  font-style: italic;
+  font-weight: bold;
+  color: darkblue;
+}
+
+.skills {
+  color: green;
+  font-style: italic;
+}
+
+.exp {
+  color: darkblue;
+}
+
+.edu {
+  color: grey;
+}
+
+.relevant {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 125%;
+}
+
+div {
+  border-radius: 8px;
+  border: 2px solid;
+  border-width: 1px;
+}
+
+h1 {
+  color: grey;
+
+}
